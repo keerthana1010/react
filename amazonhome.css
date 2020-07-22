@@ -1,0 +1,105 @@
+.banner-image {
+padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(.././downloads/intro-bg_1.jpg)no-repeat center center;
+background-size: cover;
+}
+
+
+.banner_content {
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+@media only screen and(min-width: 320px) and (max-width: 480px){
+	.banner-image {
+padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(.././downloads/intro-bg_1.jpg)no-repeat center center;
+background-size: cover;
+}
+
+
+.banner_content {
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 767px){
+	.banner-image {
+padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(.././downloads/intro-bg_1.jpg)no-repeat center center;
+background-size: cover;
+}
+
+
+.banner_content {
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+}
+@media only screen and (min-width: 768px) and (max-width:1024px){
+	.banner-image {
+padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(.././downloads/intro-bg_1.jpg)no-repeat center center;
+background-size: cover;
+}
+
+
+.banner_content {
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+}
+@media only screen and (min-width: 1025px) and (max-width:1280px){
+	.banner-image {
+padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(.././downloads/intro-bg_1.jpg)no-repeat center center;
+background-size: cover;
+}
+
+
+.banner_content {
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+}
